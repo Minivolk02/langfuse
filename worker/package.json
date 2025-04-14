@@ -35,7 +35,7 @@
     "@opentelemetry/resource-detector-aws": "^1.6.2",
     "@opentelemetry/resource-detector-container": "^0.4.2",
     "@opentelemetry/resources": "^1.26.0",
-    "@opentelemetry/sdk-node": "^0.53.0",
+    "@opentelemetry/sdk-node": "^0.200.0",
     "@prisma/instrumentation": "^6.3.0",
     "backoff": "^2.5.0",
     "bullmq": "^5.34.10",
